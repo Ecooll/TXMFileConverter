@@ -1,3 +1,14 @@
+
+"""
+TXM File Converter
+Author: Evan(https://github.com/Ecooll)
+
+license: 'Mozilla Public License 2.0',
+version: v0.0.1
+last edit time: 2022/09/06
+
+"""
+
 import os
 import olefile as of
 import numpy as np
